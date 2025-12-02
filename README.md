@@ -9,6 +9,7 @@ This repository features designs for 3D-printed enclosures and specialized senso
 |No.|Example|Link| Applications|
 |---|-------|----|-------------|
 |1| Energy harvesting switch | [Wall Switch](energy_harvesting_switch/README.md) | [Bluetooth RAIL - Energy Harvesting Kinetic Switch](https://github.com/SiliconLabsSoftware/energy_harvesting_applications/tree/main/example/bt_rail_soc_energy_harvesting_kinetic_switch) <br> [Zigbee GPD - SoC Energy Harvesting Switch](https://github.com/SiliconLabsSoftware/energy_harvesting_applications/tree/main/example/zigbee_gpd_soc_energy_harvesting_switch)|
+|2| MIDI Cable Replacement | [MIDI Cable Replacement](MIDI_Cable_Replacement/README.md) | [MIDI BLE to DIN Bridge](https://github.com/SiliconLabs/arduino/tree/main/libraries/SilabsBLEMIDI/examples/MIDI_BLE_to_DIN) <br> [MIDI DIN to BLE Bridge](https://github.com/SiliconLabs/arduino/tree/main/libraries/SilabsBLEMIDI/examples/MIDI_DIN_to_BLE) |
 
 ## Reporting Bugs/Issues and Posting Questions and Comments
 
